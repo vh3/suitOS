@@ -1,3 +1,3 @@
 # suitOS
 #
-# 3 Dec 17
+# 3 Dec 17, update 12 Feb 2019
